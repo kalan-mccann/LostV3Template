@@ -33,12 +33,30 @@ namespace LostAdventure
             { 
                 
             }
-            else if (page == 2) { }
-            else if (page == 3) { }
-            else if (page == 4) { }
-            else if (page == 5) { }
-            else if (page == 6) { }
-            else if (page == 7) { }
+            else if (page == 2) 
+            {
+            
+            }
+            else if (page == 3) 
+            {
+            
+            }
+            else if (page == 4) 
+            {
+            
+            }
+            else if (page == 5) 
+            {
+                        
+            }
+            else if (page == 6) 
+            {
+            
+            }
+            else if (page == 7) 
+            {
+            
+            }
 
 
             /// Display text and game options to screen based on the 
