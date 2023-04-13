@@ -119,5 +119,37 @@
   <ItemGroup>
     <None Include="Resources\arrowRight.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\too-late-now.jpg" />
+    <None Include="Resources\titleoftitleoftitle.jpg" />
+    <None Include="Resources\the-hallway.png" />
+    <None Include="Resources\Please forgive me.jpg" />
+    <None Include="Resources\huh.jpg" />
+    <None Include="Resources\danger.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PXL_20230404_175305133_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PXL_20230412_175152138.MP_5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crying.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\h.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imsorry.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\where did you take them.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\houoh.jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

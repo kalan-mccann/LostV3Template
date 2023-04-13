@@ -138,7 +138,7 @@
         AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19v
         cmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhw
         b3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgB
-        AQEBCQIAAAAAAAAAAAAAANT9DwDU/Q8AAAEAAQoPAgAAANT9DwACUklGRsz9DwBXQVZFZm10IBAAAAAB
+        AQEBCQIAAAAAAAAA1P0PANT9DwDU/Q8AAAEAAQoPAgAAANT9DwACUklGRsz9DwBXQVZFZm10IBAAAAAB
         AAIARKwAABCxAgAEABAAZGF0Yaj9DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQABAAEAAQABAAEAAQAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAA//8AAAAAAAAAAAAA//8AAP////////////////7////+/////v////7////9
@@ -17608,6 +17608,12 @@
         AP//AgD//wEA//8BAP//AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACw==
 </value>
   </data>
+  <data name="crying" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\crying.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="danger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\danger.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="deepBrush" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\deepBrush.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -17617,12 +17623,27 @@
   <data name="green_50x50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\green_50x50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="hello" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PXL_20230404_175305133_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="how" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\..\..\..\..\Downloads\download (4)_5.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="huh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\huh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imsorry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imsorry.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="jungle" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19v
         cmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhw
         b3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgB
-        AQEBCQIAAAAAAAAAAAAAABjNDgAYzQ4AAAEAAQoPAgAAABjNDgACUklGRhDNDgBXQVZFZm10IBAAAAAD
+        AQEBCQIAAAAAAAAAGM0OABjNDgAYzQ4AAAEAAQoPAgAAABjNDgACUklGRhDNDgBXQVZFZm10IBAAAAAD
         AAIARKwAACBiBQAIACAAZmFjdAQAAABw2QEAZGF0YYDLDgDVnie6kbi+OYBPNLqb1ds5QmY7uraP8jm+
         yDy60jQBOtuJOLr3jAU6guguuv1FBjr1TCC62W8DOuFEDbpaZ/o5pPzsuSak5zkxg7m5O0HPOULVgbmU
         DbI5r4YPucT0kDnMfNK3kO5ZOcmfsDivRA45bNNEOWgfgjgN/JM5yys5t+Bqvzk3M6u4h3rjOQweG7lG
@@ -33792,10 +33813,34 @@
         biBFZGlzb24uAABJU0ZUBwAAAEVkaXNvbgAACw==
 </value>
   </data>
+  <data name="Please_forgive_me" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Please forgive me.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="red_50x50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\red_50x50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="the_hallway" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\the-hallway.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="titleoftitleoftitle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\titleoftitleoftitle.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="too_late_now" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\too-late-now.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tower" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tower.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="where_did_you_take_them" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\where did you take them.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="why-did-they-have-to-go_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\..\..\..\..\Downloads\why-did-they-have-to-go_;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="yellow_50x50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\yellow_50x50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="you will fail no matter what" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PXL_20230412_175152138.MP_5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
